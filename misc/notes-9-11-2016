@@ -1,0 +1,96 @@
+
+
+Stream
+- Center itineraries on swipe
+
+Choose Tag
+- Hide tags after a certain point and show down arrow for more (Fade in on swipe)
+- Show search
+
+Admin
+- Create/Edit Bundle
+- Create/Edit Itinerary
+- Each itinerary would have option to invite all or friends only
+
+Invite Friends
+- SMS or through the app
+
+Track location
+
+User Profile 
+
+Matching Users 
+	--> + or - 4 from set age of itinerary
+	--> Gender must match the person who initiated the itinerary
+	--> Person being matched must be + or -  
+	--> A day before event match users that 
+	--> A group needs to be at least 3 people
+	--> Needs to be same itinerary
+	--> Match users after 24 hours have elapsed since invites and 2 hours before event
+	--> 1 match per itinerary
+	--> match user to groups that have max-1
+	--> Push gets sent notifying users that the event could not be confirmed
+
+
+
+Badges
+	1st Timer
+	100% Profile
+	3-in-1 (3 Events in 1 month)
+	2-in-1 (2 Events in 1 month)
+	Star - 10 
+	Superstar - 20
+	Legend - 30
+	Early Bird
+	2-in-1 (2 Events in 1 day)
+
+
+
+user tags --> [0,1,2]
+
+Bundles --> [0,1,2,3,4,5,6,7]
+	itineary tags --> [0,1,2]
+	itineary tags --> [2,3,4]
+	itineary tags --> [5,6,7]
+
+Bundles --> [0,1,2,3,4,5,6,7]
+	itineary tags --> [0,1,2]
+	itineary tags --> [2,3,4] 
+	itineary tags --> [5,6,7]
+
+Bundles --> [0,1,2,3,4,5,6,7]
+	itineary tags --> [0,1,2]
+	itineary tags --> [2,3,4]
+	itineary tags --> [5,6,7] 	 	
+
+Bundles --> [0,1,2,3,4,5,6,7]
+	itineary tags --> [0,1,2]
+	itineary tags --> [2,3,4]
+	itineary tags --> [5,6,7]
+
+Bundles
+	--> Replace options to sort with "Discover"
+	--> name
+	--> banner
+	--> max/min itineraries 10
+	--> Cache bundles weekly
+	--> Priority
+	--> Remove manually/weekly
+	--> 4 bundle + 1 bundle
+	--> Search:
+		--> Match on tag
+		--> Match on date
+	--> Keep bundles shown that have not been seen and start/end date not passed
+	--> Sort itineraries in order of date
+
+
+
+Itineraries View
+	--> Title: Show Bundle name
+	--> Add day name/number to each itinerary
+
+
+
+
+
+

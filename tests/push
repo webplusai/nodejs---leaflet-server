@@ -1,0 +1,19 @@
+curl -X POST \
+    -H "X-Parse-Application-Id: leaflets" \
+    -H "X-Parse-Master-Key: a74bc3b9ca53d143da3617f138ec8158" \
+    -H "Content-Type: application/json" \
+    -d '{
+          "where": {
+            "userID": "WF5jIIqEwP",
+            "deviceType": {
+              "$in": [
+                "ios"
+              ]
+            }
+          },
+          "data": {
+            "title": "Oh Yeah!",
+            "alert": "Lets do this!!!!!!!!"
+          }
+        }'\  http://localhost:1337/parse/push 
+        

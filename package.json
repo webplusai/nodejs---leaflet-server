@@ -1,0 +1,32 @@
+{
+  "name": "api.getleaflets.co",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "cities": "^1.1.2",
+    "country-data": "0.0.29",
+    "express": "^4.14.0",
+    "geoip-lite": "^1.1.8",
+    "hat": "^0.0.3",
+    "mailgun": "^0.5.0",
+    "mongodb-runner": "^3.4.0",
+    "parse-server": "^2.3.0-alpha1",
+    "twilio": "^2.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shawnoates/leaflets-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shawnoates/leaflets-server/issues"
+  },
+  "homepage": "https://github.com/shawnoates/leaflets-server#readme"
+}
